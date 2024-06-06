@@ -1,6 +1,5 @@
 
 
-
 This is a fork/based off of https://github.com/issork/gift 
 
 Give credit where due!  That plugin is also in the Godot Asset Library, but is meant to integrate with your apps/games at runtime.
@@ -15,7 +14,7 @@ To enable it in the editor:
 
 1. You need to add the "twitch_chat_dock" folder to "res://addons/"  (Create an "addons" folder if you don't already have one in your main project folder)
 2. You will also need to change the "user.gd" variables to include your token, your twitch username, and your channel name, or it will fail to load.
-3. You need to Enable the plugin.   In the Godot top left menu go to Project --> Project Settings -- Plugins, and you should see "Twitch Chat Dock". Enable it. 
+3. You need to Enable the plugin.   In the Godot top left menu go to Project --> Project Settings -- Plugins, and you should see "Twitch Chat Dock 2.0". Enable it. 
 4. You will need to reload your project by closing godot and reopening it, or using the handy "Reload Current Project" option under the "Project" menu 
 
 MAKE SURE YOU SET "user.gd" in your .gitignore file!  (If you are uploading it to a public repo!)
